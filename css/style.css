@@ -1,5 +1,8 @@
 #header{
-    font-size: 25px;
+    font-size: 35px;
+    font-style: oblique;
+    color:fuchsia;
+    text-align: center;
 }
 
 a{
@@ -9,3 +12,10 @@ a{
 .capitalize{
     text-transform: capitalize;
 }
+
+body{
+    background-image: url("../img/wood-591631_1920.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
